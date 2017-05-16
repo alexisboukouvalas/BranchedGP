@@ -1,0 +1,2 @@
+# BranchedGP
+Branching Gaussian processes.
